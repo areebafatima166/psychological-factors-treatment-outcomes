@@ -1,0 +1,7 @@
+"","baseline_symptoms","treatment_expectations","treatment_motivation","therapeutic_alliance","post_treatment_symptoms","treatment_response"
+"baseline_symptoms",1,-0.129,-0.149,-0.049,0.676,0.537
+"treatment_expectations",-0.129,1,0.501,0.172,-0.215,0.078
+"treatment_motivation",-0.149,0.501,1,0.313,-0.317,0.168
+"therapeutic_alliance",-0.049,0.172,0.313,1,-0.115,0.067
+"post_treatment_symptoms",0.676,-0.215,-0.317,-0.115,1,-0.259
+"treatment_response",0.537,0.078,0.168,0.067,-0.259,1

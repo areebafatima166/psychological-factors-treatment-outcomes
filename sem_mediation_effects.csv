@@ -1,0 +1,3 @@
+"Effect","B","SE","z","p","CI_Lower","CI_Upper","Beta"
+"Indirect effect",0.01,0.01,1.06,"0.289",-0.01,0.04,0.01
+"Total effect",0.3,0.07,4.43,"< .001",0.17,0.44,0.28
