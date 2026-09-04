@@ -77,7 +77,7 @@ Multiple regression was used to examine whether treatment-related variables pred
 
 ### Moderation
 
-Interaction-based moderation analysis was used to examine whether treatment motivation altered the relationship between treatment expectations and treatment outcomes.
+Treatment motivation was examined as a moderator of the association between baseline symptoms and post-treatment symptoms.
 
 ### Longitudinal Mixed-Effects Modeling
 
